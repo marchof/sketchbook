@@ -1,0 +1,1 @@
+( cd work/jacoco-unit-test-problem && ./gradlew jacocoTestReport )
